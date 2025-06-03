@@ -1,0 +1,2 @@
+movemaster_control:movemaster_controlo:movemaster_msg
+-DCATKIN_DEVEL_PREFIX=/Users/marcoreis/mvmaster_ws/devel -DCMAKE_INSTALL_PREFIX=/Users/marcoreis/mvmaster_ws/install -G Unix Makefiles

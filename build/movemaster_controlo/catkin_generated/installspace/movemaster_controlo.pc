@@ -1,0 +1,8 @@
+prefix=/Users/marcoreis/mvmaster_ws/install
+
+Name: movemaster_controlo
+Description: Description of movemaster_controlo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

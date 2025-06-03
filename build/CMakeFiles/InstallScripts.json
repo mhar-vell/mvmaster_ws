@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/marcoreis/mvmaster_ws/build/cmake_install.cmake",
+		"/Users/marcoreis/mvmaster_ws/build/movemaster_msg/cmake_install.cmake",
+		"/Users/marcoreis/mvmaster_ws/build/movemaster_control/cmake_install.cmake",
+		"/Users/marcoreis/mvmaster_ws/build/movemaster_controlo/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
